@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import TrackPage from './WealthManagement/TrackPage';
+import TrackPage from './SamsFloor/TrackPage';
 
 
 
